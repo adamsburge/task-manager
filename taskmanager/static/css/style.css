@@ -31,3 +31,11 @@ input.valid:not([type]), input.valid:not([type]):focus, input.valid[type=text]:n
   color: #eceff1;
 }
 
+.datepicker-date-display {
+  background-color: #004d3f;
+  color: #eceff1;
+}
+
+.datepicker-cancel, .datepicker-clear, .datepicker-today, .datepicker-done {
+  color: #004d3f;
+}
