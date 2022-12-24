@@ -39,3 +39,8 @@ input.valid:not([type]), input.valid:not([type]):focus, input.valid[type=text]:n
 .datepicker-cancel, .datepicker-clear, .datepicker-today, .datepicker-done {
   color: #004d3f;
 }
+
+.collapsible-header {
+  border-bottom: unset;
+  margin-bottom: 3px;
+}
